@@ -1,13 +1,15 @@
 # GitPractice
 
-## 1st commit
+1st commit
 
-## 2nd commit
+2nd commit
 
-## this is test_02 branch!
+this is test_02 branch!
 
-## update something again...
+update something again...
 
-## Ha Ha kkk...
+Ha Ha kkk...
 
-## Ha Ha kkk... _ test...
+Ha Ha kkk... _ test...
+
+rebase test start
