@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # GitPractice
 
 ## 1st commit
